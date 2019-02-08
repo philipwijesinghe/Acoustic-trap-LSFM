@@ -6,7 +6,8 @@ Processing code made available as part of:
 Zhengyi Yang, Katy L.H. Cole, Yongqiang Qiu, Ildiko M.L. Somorjai, 
 Philip Wijesinghe, Jonathan Nylk, Sandy Cochran, Gabriel C. Spalding,
 David A. Lyons, and Kishan Dholakia.
-(In Press). 
+*Nature Communications* **10** (2019)
+[https://doi.org/10.1038/s41467-019-08514-5](https://doi.org/10.1038/s41467-019-08514-5)
 
 #### Abstract: 
 Contactless sample confinement would enable a whole host of new studies in developmental biology and neuroscience, in particular, when combined with long-term, wide-field optical imaging. 
